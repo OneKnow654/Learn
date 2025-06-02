@@ -1,9 +1,5 @@
-
-
-## ✅ `README.md` — Cron Job Tutorial
-
-
-# ⏰ Linux Cron Job Guide
+# Cron Job Tutorial
+## ⏰ Linux Cron Job Guide
 
 This is a quick reference to help you schedule and manage automated tasks on Linux using **cron**.
 
@@ -61,7 +57,6 @@ This means: run the script **every minute**.
 
 
 
-# `Use cron tab generate -> `[here](https://crontab.cronhub.io/)
 
 ## 🛠 Example: Auto Bash Script
 
@@ -158,5 +153,8 @@ Then add:
 */1 * * * * /full/path/to/myjob.sh
 ```
 
+# Website
+- [cronhub](https://crontab.cronhub.io/)  Use cron tab generate
+  
 ---
 
