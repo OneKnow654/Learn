@@ -7,5 +7,6 @@
 2. 
 
 # Programing
+1. Python - [visit](python)
 ## Database
 1. Mysql - [visit](mysql)
